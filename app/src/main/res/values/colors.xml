@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E8A100</color>
+    <color name="colorPrimaryDark">#C18600</color>
+    <color name="colorAccent">#765200</color>
+    <color name="background">#589e6e00</color>
+    <color name="color1">#442F00</color>
+    <color name="voltDeHibas">#d20000</color>
+    <color name="voltFelhasznalva">#009f00</color>
+
+</resources>
